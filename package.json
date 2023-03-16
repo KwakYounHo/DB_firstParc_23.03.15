@@ -1,0 +1,26 @@
+{
+  "name": "db_firstparc_23.03.15",
+  "version": "1.0.0",
+  "description": "db와 js 연동 테스트",
+  "main": "index.js",
+  "scripts": {
+    "test": "연습파일"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwakYounHo/DB_firstParc_23.03.15.git"
+  },
+  "keywords": [
+    "DB",
+    "MYSQL"
+  ],
+  "author": "KwakYounHo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwakYounHo/DB_firstParc_23.03.15/issues"
+  },
+  "homepage": "https://github.com/KwakYounHo/DB_firstParc_23.03.15#readme",
+  "dependencies": {
+    "mysql2": "^3.2.0"
+  }
+}
